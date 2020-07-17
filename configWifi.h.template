@@ -1,0 +1,6 @@
+#define configHomeWifi = "Home";
+#define configHomePassword = "HomePass";
+#define configOfficeWifi = "Office";
+#define configOfficePassword = "OfficePass";
+#define configRemoteWifi = "Remote";
+#define configRemotePassword = "RemotePass";
